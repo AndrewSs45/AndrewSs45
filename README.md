@@ -81,7 +81,7 @@
 
 <div align="center">
 
-### [Ethereal TODO](https://github.com/AndrewSs45/Backend)
+### [Miku Co](https://github.com/AndrewSs45/Backend)
 Full-stack collaborative task manager with Astro + React frontend, TypeScript Express API, MongoDB, and a stunning 17-theme system.
 
 ### [tidelit-books](https://github.com/AndrewSs45/tidelit-books)
